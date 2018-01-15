@@ -1,0 +1,13 @@
+# minsup
+1
+# graph 1
+G1
+# node ID, label
+0 C
+1 C
+2 O
+3 N
+# node ID1, node ID2, number of bounds
+0 1 2
+1 2 1
+2 3 1
