@@ -7,6 +7,7 @@ to standard output.
 
 Input: It accepts an integer as a minsup and a database of graphs from 
 standard input. 
+
 Output: It prints out frequent graphs to standard output.
 
 ## Note
